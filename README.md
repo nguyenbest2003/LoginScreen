@@ -15,7 +15,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
-
+https://github.com/nguyenbest2003/LoginScreen/blob/a53bc29c2b52e11f4928dfa1337c7ec071da08e4/Demo_LoginScreen.mp4
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
